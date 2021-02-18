@@ -1,3 +1,3 @@
 # corps-celestes
 
-Matériel pour le TP sur Git
+:books: Matériel pour le TP _Découverte de git_ :octocat:
