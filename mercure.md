@@ -2,9 +2,9 @@
 
 Mercure est la planète la plus proche du soleil.
 
-![Icone de mercure](mercury.png)
+![Icone de mercure](mercure.png)
 
-Icone faite par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur [flaticon](https://www.flaticon.com/).
+Icone créée par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur [flaticon](https://www.flaticon.com/).
 
 ## Caractéristiques
 
@@ -15,4 +15,3 @@ Icone faite par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur [
   - Périhélie : 4.6 x 10<sup>7</sup> km
   - Demi-grand axe : 5.8 x 10<sup>7</sup> km
 - Symbole : &#x263F;
-
